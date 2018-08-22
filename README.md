@@ -1,2 +1,5 @@
-# 3dprinting
-3d Printable model designed by our members.
+# 3dprinting @ Lakehead University Makerspace
+This repository contains 3d printed models created by our members.  
+To get a model of yours included just submit a pull request or email makerspace.engi@lakeheadu.ca
+
+- The Makerspace team
