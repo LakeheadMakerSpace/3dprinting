@@ -22,7 +22,6 @@ Video link: https://youtu.be/PRSBKm1encM
 ![Alt text](https://cdn.thingiverse.com/assets/99/fc/cc/0a/2d/Screen_Shot_2016-12-03_at_12.47.14_PM.png)
 Image of how the torsion system should be set up.
 
-<iframe src="//www.youtube.com/embed/PRSBKm1encM" frameborder="0" allowfullscreen></iframe>
 Video of how the torsion system should be set up: https://youtu.be/PRSBKm1encM
 
 ## Future Improvements
