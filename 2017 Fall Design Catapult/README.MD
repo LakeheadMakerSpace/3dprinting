@@ -19,7 +19,7 @@ In addition, two screws were used for the handles of the torsion system. These s
 See below for a picture and video revealing how to wrap the material for a torsion catapult.
 Video link: https://youtu.be/PRSBKm1encM
 
-![Alt text](https://cdn.thingiverse.com/assets/99/fc/cc/0a/2d/Screen_Shot_2016-12-03_at_12.47.14_PM.png)
+![Alt text](https://cdn.thingiverse.com/assets/99/fc/cc/0a/2d/Screen_Shot_2016-12-03_at_12.47.14_PM.png)  
 Image of how the torsion system should be set up.
 
 Video of how the torsion system should be set up: https://youtu.be/PRSBKm1encM
